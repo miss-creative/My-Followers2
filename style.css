@@ -1,0 +1,175 @@
+body{background-color: antiquewhite;}
+.body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    
+   
+}
+
+.avatar{
+    width: 150px;
+    border: 3px solid black;
+    box-shadow: #2b2839;
+}
+.yaku{
+    width: 400px;
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #FAFAEB;
+    color: #2b2839;
+    border: 3px solid #2b2839;
+    border-bottom: 6px solid black;
+
+}
+
+.IqraFirdose{
+    width: 400px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #F3E4F1;
+    color: #2b2839;
+    border: 3px solid #2b2839;
+    border-bottom: 6px solid black;
+}
+
+.Salmantech{
+    width: 400px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #D5EBDA;
+    color: #2b2839;
+    border: 3px solid #2b2839;
+    border-bottom: 6px solid black;
+}
+.rajajunaid{
+    width: 400px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #F4DACD;
+    color: #2b2839;
+    border: 3px solid #2b2839;
+    border-bottom: 6px solid black;
+}
+.syedshamim{
+    width: 400px;
+    margin-top: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #EAD3D4;
+    color: #2b2839;
+    border: 3px solid #2b2839;
+    border-bottom: 6px solid black;
+}
+.amena{
+    width: 400px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #f8ddb2;
+    color: #2b2839;
+    border: 3px solid #2b2839;
+    border-bottom: 6px solid black;
+}
+.zainab{
+    width: 400px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #e6d1cf;
+    color: #2b2839;
+    border: 3px solid #2b2839;
+    border-bottom: 6px solid black;
+}
+.salawu{
+    width: 400px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #fdf1d3;
+    color: #2b2839;
+    border: 3px solid #2b2839;
+    border-bottom: 6px solid black;
+}
+.muzzamil{
+    width: 400px;
+    margin-top: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #eae1cd;
+    color: #2b2839;
+    border: 3px solid #2b2839;
+    border-bottom: 6px solid black;
+}
+.manchur{
+    width: 400px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #efe6e4;
+    color: #2b2839;
+    border: 3px solid #2b2839;
+    border-bottom: 6px solid black;
+}
+.usman{
+    width: 400px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #d3eaee;
+    color: #2b2839;
+    border: 3px solid #2b2839;
+    border-bottom: 6px solid black;
+}
+.manthan{
+    width: 400px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #f4dab6;
+    color: #2b2839;
+    border: 3px solid #2b2839;
+    border-bottom: 6px solid black;
+}
+.bk{
+    width: 400px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #c7b3af;
+    color: #2b2839;
+    border: 3px solid #2b2839;
+    border-bottom: 6px solid black;
+}
+
